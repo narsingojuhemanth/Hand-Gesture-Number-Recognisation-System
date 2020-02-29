@@ -1,7 +1,7 @@
 # Hand-Gesture-Number-Recognition-System
 count the Number of Fingers and Display th Result
 
-# hand-gesture-number-recognisation
+# hand-gesture-number-recognition
 detects the gesture numbers using opencv
 
 
@@ -39,7 +39,7 @@ The Main Steps involved in the number detection are:-
 .
 .
 .
-#recognisation
+#recognition
 .
 .
 .
