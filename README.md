@@ -1,4 +1,4 @@
-# Hand-Gesture-Number-Recognisation-System
+# Hand-Gesture-Number-Recognition-System
 count the Number of Fingers and Display th Result
 
 # hand-gesture-number-recognisation
